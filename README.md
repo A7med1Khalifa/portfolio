@@ -2,9 +2,9 @@
 ### About Me:
 A dedicated computer engineering student with a focus on cybersecurity, specializing in SOC operations. Equipped with practical experience in security monitoring, incident detection, and response. Proficient in Python programming and passionate about network security and threat intelligence.
 ### Projects
-Threat Intelligence Dashboard – Developed a SIEM dashboard to monitor and analyze security threats.
-Web Application Penetration Testing – Conducted vulnerability assessments on enterprise web applications.
-Network Forensics Investigation – Investigated real-world attack scenarios using Security Onion.
+- Threat Intelligence Dashboard – Developed a SIEM dashboard to monitor and analyze security threats.
+- Web Application Penetration Testing – Conducted vulnerability assessments on enterprise web applications.
+- Network Forensics Investigation – Investigated real-world attack scenarios using Security Onion.
 ### Education: 
 - Mansoura University, Faculty of Engineering
 - Major: Computer and Communications Engineering (CCE)

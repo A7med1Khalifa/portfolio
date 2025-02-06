@@ -5,6 +5,8 @@ A dedicated computer engineering student with a focus on cybersecurity, speciali
 - Threat Intelligence Dashboard – Developed a SIEM dashboard to monitor and analyze security threats.
 - Web Application Penetration Testing – Conducted vulnerability assessments on enterprise web applications.
 - Network Forensics Investigation – Investigated real-world attack scenarios using Security Onion.
+![E1](assests/img/ThreatIntelligenceScreenShot.png)
+![E1](assests/img/web-application-pentest-tools-1024x576.jpg.webp)
 ### Education: 
 - Mansoura University, Faculty of Engineering
 - Major: Computer and Communications Engineering (CCE)
